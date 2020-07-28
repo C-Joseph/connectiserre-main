@@ -1,0 +1,93 @@
+html,body{
+margin:0px;
+min-height:100%;
+}
+body{
+font-family: Arial, sans-serif;
+font-size:16px;
+line-height: 1.5;
+}
+header{
+height: auto;
+border-bottom: 1px solid #333;
+border-top: 1px solid #333;
+}
+header > #logo{
+height: 50px;
+background: #ddd;
+text-align: center;
+font-weight: bold;
+letter-spacing: 2px;
+padding: 0px 5px;
+float:left;
+}
+footer{
+background: #aaa;
+line-height: 2.5;
+position: absolute;
+width: 100%;
+}
+footer > #footerlinks > ul{
+list-style-type: none;
+}
+
+#footertop{
+background: #333;
+color: #fff;
+border-bottom: 1px solid #222;
+border-top: 1px solid #000;
+}
+#footertop > p{
+padding-left: 10px;
+margin-top:0px;
+}
+#contenu{
+min-height:100%;
+}
+nav{
+height: 50px;
+background: #fff;
+}
+nav > ul{
+list-style-type:none;
+float: left;
+width: auto;
+}
+nav > ul > li{
+display: inline-block;
+position: relative;
+float: left;
+margin-left: 50px;
+text-align: left;
+}
+nav > ul> li > a{
+text-decoration: none;
+text-transform: uppercase;
+}
+a{
+text-decoration:none;
+}
+
+#container{
+width: 60%;
+min-height: 600px;
+height:100%;
+margin: 0px auto;
+background: #ddd;
+padding:10px 50px 20px 50px;
+}
+#form_heading{
+min-width:100%;
+float:left;
+}
+#form_heading > p{
+//width:20px;
+float:left;
+padding-right:50px;
+}
+#form_elements{
+padding:5px 0px;
+}
+#form_elements > input, #form_elements > select{
+margin-right:20px;
+}
