@@ -8,11 +8,11 @@
 
                         <li><a href='index.php'>Acceuil</a></li>
 
-                        <li><a href='pageStats.php'>Statistiques</a></li>
+                        <li><a href='page_stats.php'>Statistiques</a></li>
 
-                        <li><a href='pageConfig.php'>Configuration</a></li>
+                        <li><a href='page_config.php'>Configuration</a></li>
 
-                        <li><a href='pageAide.php'>Aide</a></li>
+                        <li><a href='page_aide.php'>Aide</a></li>
 
                 </ul>
 
