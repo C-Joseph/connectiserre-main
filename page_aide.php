@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>CONNECTISERRE </title>
-<link rel="stylesheet" href="style/SerreprojStyle.css">
+<link rel="stylesheet" href="style/styles.css">
 </head>
 <body>
 <?php include_once("header.php"); ?>
